@@ -34,7 +34,10 @@ public class Exercise3 {
 		 * Now let's close out this block comment.
 		*/	
 		
-		
+
+
+		// new comments
+		System.out.println("Adding some new comments here");
 	}
 
 }
