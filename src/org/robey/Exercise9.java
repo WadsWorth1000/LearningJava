@@ -19,7 +19,7 @@ public class Exercise9 {
 	public static void main(String[] args) {
 		
 		int height, base, area;
-		
+
 		base = 6;
 		height = 14;
 		

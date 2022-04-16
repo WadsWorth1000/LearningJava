@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bcc9973-816b-4890-8f22-24ac4393aa5b" name="Changes" comment="my first commit" />
+    <list default="true" id="6bcc9973-816b-4890-8f22-24ac4393aa5b" name="Changes" comment="adding comment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +99,21 @@
       <option name="presentableId" value="Default" />
       <updated>1646284777962</updated>
     </task>
+    <task id="LOCAL-00001" summary="my first commit">
+      <created>1650084912748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650084912748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding comment">
+      <created>1650085115164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650085115164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="my first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="my first commit" />
+    <MESSAGE value="adding comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding comment" />
   </component>
 </project>
